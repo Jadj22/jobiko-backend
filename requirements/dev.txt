@@ -1,0 +1,4 @@
+-r base.txt
+
+django-extensions>=4.1,<4.2
+django-debug-toolbar>=5.1,<5.2
